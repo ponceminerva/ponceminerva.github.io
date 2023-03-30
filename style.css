@@ -15,8 +15,7 @@ body {
   font-family: "Karla", Arial, sans-serif;
   line-height: 1.8;
   font-size: 20px;
-  background: #004080;
-  background-image: url(images/photography.png);
+  background-color: #fff2e6;
   font-weight: 300;
   overflow-x: hidden;
 }
